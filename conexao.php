@@ -1,5 +1,7 @@
 <?php    
 
+    // Classe de conexão com o banco de dados
+
     class Conexao {
         private $data = array();
         protected $pdo = null;
